@@ -5,17 +5,17 @@ Repository for Winter 2023 [Geog 458: Advanced Digital Geography](https://github
 
 ## Seattle
 ![Seattle, WA](./img/Seattle1.png)
-[Click]() to download original dataset crawled from Twitter.
+[Right click and choose "Save Link As"](https://raw.githubusercontent.com/Tj717/Layoff-Tweet-Analysis/main/assets/results.csv) to download original dataset crawled from Twitter.
 
 ## San Jose
 ![San Jose, CA](./img/SanJose2.png)
-[Click]() to download original dataset crawled from Twitter.
+[Right click and choose "Save Link As"](https://raw.githubusercontent.com/Tj717/Layoff-Tweet-Analysis/main/assets/results2.csv) to download original dataset crawled from Twitter.
 
 ## Austin
 ![Austin, TX](./img/Austin3.png)
-[Click]() to download original dataset crawled from Twitter.
+[Right click and choose "Save Link As"](https://raw.githubusercontent.com/Tj717/Layoff-Tweet-Analysis/main/assets/results3.csv) to download original dataset crawled from Twitter.
 
 ## New York
 ![New York, NY](./img/NewYork4.png)
-[Click]() to download original dataset crawled from Twitter.
+[Right click and choose "Save Link As"](https://raw.githubusercontent.com/Tj717/Layoff-Tweet-Analysis/main/assets/results4.csv) to download original dataset crawled from Twitter.
 
